@@ -16,13 +16,17 @@ Project Description : I created a fitness website named "BBB_Fitness Web", here 
 
 Primary Azure Technology : Static Web Apps, App Service
 
-Static Web App URL : 
+Static Web App URL : https://lively-smoke-0c69ebd00.2.azurestaticapps.net/
 
-App Services URL : 
+App Services URL : https://bbbfitnesswebsite.azurewebsites.net/
 
-My Website Link: 
+My Website Link : https://abzalshaik02.github.io/FRT_Project/
 
+My Website Demo Video : https://drive.google.com/file/d/1pi57CiqdE4FAq2fDlOX-nRbaFXyfGETT/view?usp=share_link
 
+https://user-images.githubusercontent.com/117445087/214291043-44962206-fae5-4e24-85a6-95a509d020e5.mp4
+
+ 
 ## Home
 ![image](https://user-images.githubusercontent.com/117445087/202195582-6b07a1ca-9a13-4a15-8ca8-2b71be92562f.png)
 ![image](https://user-images.githubusercontent.com/117445087/202195715-78f23d24-17e7-4f15-8420-2c15a676ddd0.png)
@@ -41,5 +45,8 @@ My Website Link:
 ![image](https://user-images.githubusercontent.com/117445087/202196560-e0a7ea58-1b8f-48eb-8065-d1d29767fd9c.png)
 
 ## Azure Resources used
+![image](https://user-images.githubusercontent.com/117445087/214288750-2aa3b87c-b7e6-42fe-b8ea-394c5989701a.png)
+![image](https://user-images.githubusercontent.com/117445087/214288853-381fac83-18ba-4484-903a-08629ec4a54c.png)
+![image](https://user-images.githubusercontent.com/117445087/214288756-5e04ba0c-4443-49ac-ab46-9f4c5288e0ac.png)
 
 
