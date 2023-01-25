@@ -1,7 +1,6 @@
 # FRT_Project
 
-BBB_Fitness Website
-Microsoft-Future-Ready-Talent-Internship-Project. This is Front End website
+BBB_Fitness Website --> Microsoft-Future-Ready-Talent-Internship-Project. This is Front End website
 
 Web Technologies used: HTML, CSS, JS, JQuery, Bootstrap.
 
