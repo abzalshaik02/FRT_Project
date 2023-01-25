@@ -1,6 +1,7 @@
 # FRT_Project
-BBB_Fitness Web
-Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
+
+BBB_Fitness Website
+Microsoft-Future-Ready-Talent-Internship-Project. This is Front End website
 
 Web Technologies used: HTML, CSS, JS, JQuery, Bootstrap.
 
@@ -12,7 +13,7 @@ Project Title : BBB_Fitness Website
 
 Problem Statement/Opportunity : My main theme of this project is tells about Body Fitness and Healthy ways for the new generational peoples.
 
-Project Description : I created a fitness website named "BBB_Fitness Web", here I mentioned "The Healthy Way Of Life" contents and services. My web is mainly concerned with the topic of Body Fitness and Healthy routines.
+Project Description : I created a fitness website named "BBB_Fitness Web", here I mentioned "The Healthy Way Of Life" contents and services. My website is mainly concerned with the topic of Body Fitness and Healthy routines.
 
 Primary Azure Technology : Static Web Apps, App Service
 
